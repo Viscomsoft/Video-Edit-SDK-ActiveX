@@ -1,0 +1,16 @@
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\bin\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\bin\Debug\WindowsApplication1.pdb
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\bin\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\bin\Debug\Interop.VIDEOEDITLib.dll
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\bin\Debug\AxInterop.VIDEOEDITLib.dll
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\Interop.VIDEOEDITLib.dll
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\AxInterop.VIDEOEDITLib.dll
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\VideoEdit Gold ActiveX ControlXXX2\Examples\VB.Net2010\File Conversion\obj\x86\Debug\WindowsApplication1.pdb
