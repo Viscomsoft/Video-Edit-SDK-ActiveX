@@ -1,12 +1,12 @@
 # Video-Edit-SDK-ActiveX
 
-#Introduction
+# Introduction
 Windows Video Edit SDK for C# , VB.NET , C++ , VB6, Delphi, Vfp, Ms Access. Support Frame By Frame Preview and Export Frame, Video Conversion, Cut , Merge Videos.
 
-#Download
+# Download
 Install Viscomsoft Video Edit Gold SDK ActiveX from http://www.viscomsoft.com/products/videoeditgold
 
-#Highlights
+# Highlights
 Allow Input Flash file (swf), FLV, F4V, AVCHD (m2ts, ts), Mp4, m4v, WebM, QuickTime MOV with aac audio, 3gp, 3g2 with amr audio , MPEG1, MPEG2, VOB, WMV, AVI, ASF DIVX file. 
 
 Cut videos by adjusting the start and end time.
